@@ -39,7 +39,7 @@ def main():
     # Получаем шаг сдвига от пользователя
     lang = input('Выберите язык Ru/En: ')    
     
-        if lang == "Ru":
+    if lang == "Ru":
         alphabet = alphabet_ru
     elif lang == "En":
         alphabet = alphabet_en
