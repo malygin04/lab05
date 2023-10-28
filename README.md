@@ -19,8 +19,8 @@
 
 # Скриншоты тестов
 
-![цезарь 1](https://github.com/malygin04/lab05/assets/102820638/d8120326-b2d5-4b7c-b41f-56c2177babf9)
+![1](https://github.com/malygin04/lab05/assets/102820638/2e6d051a-09c7-4728-a77f-b9ea7e586e47)
 
-![цезарь 2](https://github.com/malygin04/lab05/assets/102820638/a47edc3c-49b6-40d6-9794-73b15b211d25)
+![2](https://github.com/malygin04/lab05/assets/102820638/7b8d6644-34c9-4229-b7c4-a034e7e8c507)
 
-![цезарь 3](https://github.com/malygin04/lab05/assets/102820638/8192a8c6-42b8-4266-ae37-4ca99f803b3e)
+![3](https://github.com/malygin04/lab05/assets/102820638/da1dcf08-632a-4800-b0a2-46ea27ac30e7)
